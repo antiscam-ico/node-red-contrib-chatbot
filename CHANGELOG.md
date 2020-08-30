@@ -1,3 +1,8 @@
+* **0.19.7** Bumped NLP.js
+* **0.19.6** Add formatting for captions in Telegram
+* **0.19.5** Fix Slack cleanup on closing connection
+* **0.19.4** Update Slack to new API [[changes in configuration|Changes-0.19.4]]
+* **0.19.3** Added error pin to sender nodes for Telegram, Slack, Facebook, Twilio 
 * **0.19.2** Reverted previous, fixed param in settings.js config for authorized users `usernames` 
 * **0.19.1** Fixed param in settings.js config for authorized users `authorizedUsernames` (previously `usernames`)
 * **0.19.0** [[Changes in 0.19.0|Changes-0.19.0]]
